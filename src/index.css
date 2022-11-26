@@ -1,11 +1,15 @@
+/* Letra principal - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/* Letra titulos - Sacramento */
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 :root {
-  --primary-color: #E5B528
+  --primary-color: #77bfa3
 }
 body {
   margin: 0;

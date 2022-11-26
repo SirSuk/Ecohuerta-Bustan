@@ -7,10 +7,10 @@ const Hero = () => {
          <div className='container'>
             <div className='content'>
                 <div className='text'>
-                    <p>Bustan Radif</p>
+                   
                 </div>
-                <h1> Alimento </h1>
-                <h1> Ecológico</h1>
+                <h1> EcoBustan </h1>
+                <h2 className="hero__h2"> Verdura de Cercanía </h2>
                 <button className='btn'>Pedidos</button>
                 <button className='btn'>Contacto</button>
             </div>

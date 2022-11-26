@@ -6,8 +6,8 @@
     color: whitesmoke;
     position: fixed;
     -webkit-box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
-box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
     z-index: 2
     
 }
@@ -28,7 +28,11 @@ box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
     padding: 1rem;
     font-family: 'Source Serif 4', sans-serif;
     text-transform: uppercase;
-    font-size: 1.2rem
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.navbar li:hover {
+color: var(--primary-color)
 }
 .hamburguer {
     z-index: 5;
