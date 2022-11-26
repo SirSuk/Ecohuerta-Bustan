@@ -1,12 +1,13 @@
 p {
-    font-size: 1.5em;
+    font-size: 2em;
     color: black;
     text-align: center; 
-    padding: 2em;
+    padding-bottom: 1em;
 }
-h1 {
+.texto__h2{
     font-family: Sacramento, sans-serif;
-    font-size: 5em;
-    padding: .5em;
+    font-size: 4em;
+    padding-top: .4em;
+    
     text-align: center;
 }
