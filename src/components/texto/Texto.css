@@ -4,3 +4,9 @@ p {
     text-align: center; 
     padding: 2em;
 }
+h1 {
+    font-family: Sacramento, sans-serif;
+    font-size: 5em;
+    padding: .5em;
+    text-align: center;
+}
