@@ -3,14 +3,14 @@
         background-color: #333;
         padding: 6rem 1rem;
     }
-    .footer .container {
+    .footer__container {
         max-width: 1240px;
         margin: auto;
         display:flex;
         justify-content: space-between;
     }
 
-    .footer .container .col {
+    .footer__container.col {
        width: 400px;
     }
 
@@ -27,18 +27,16 @@
     }
 
     @media screen and (max-width: 1040px) {
-        .footer .container {
+        .footer__container{
             grid-template-columns: repat(2,1fr)
         }
-        .footer .container .col {
+        .footer__container .col {
             justify-content: space-between;
         }
 
         .footer h3, p {
             font-size: 15px;
         }
-        .footer .container {
-            
-        }
+      
        
     }

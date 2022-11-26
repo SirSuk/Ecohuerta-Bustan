@@ -5,7 +5,7 @@ import {FaFacebookSquare, FaInstagramSquare, FaTwitterSquare} from 'react-icons/
 const Footer = () => {
   return (
     <div className="footer">
-        <div className="container">
+        <div className="footer__container">
             <div className='col'>
                 <h3>Explora nuestro menu</h3>
                 <p>Menu</p>
