@@ -3,6 +3,8 @@ p {
     color: black;
     text-align: center; 
     padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 .texto__h2{
     font-family: Sacramento, sans-serif;
