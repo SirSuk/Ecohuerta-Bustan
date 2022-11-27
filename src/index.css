@@ -3,6 +3,11 @@
 
 /* Letra titulos - Sacramento */
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+/* otra letra */
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;700;800&display=swap');
+
 * {
   padding: 0;
   margin: 0;
@@ -13,7 +18,7 @@
 }
 body {
   margin: 0;
-  font-family: 'Poppins','Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Dosis','Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
